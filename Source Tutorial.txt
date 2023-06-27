@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=49Fx963su1I
+Personalblog is subfolder for Sanity Setup. Also npm install "personalblog"
